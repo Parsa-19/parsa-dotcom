@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @parsa.
-- 👀 I’m interested in write code.
-- 🌱 I’m currently learning c#.
+- 👀 I’m interested in programming and web-development.
+- 🌱 I’m currently working with python.
 - 💞️ I have no cooperation.
 
-I'm just 15 and I'm new in c#.
-I have some basic project to learn c#.
-
-I want to be a Web designer and write a back end program by C# and .Net.
+I'm now 16 and I had a couple of basic project using python.
+I want use pyhton to develop the back side of web pages and so go on.
 
 <!---
 parsa-dotcom/parsa-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
